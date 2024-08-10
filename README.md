@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynopidev&label=Profile%20views&color=0e75b6&style=flat" alt="zynopidev" /> </p>
 
-- 🔭 I’m currently working on **My skills**
+- 🔭 I’m currently working on **My ICT skills**
 
 - 🌱 I’m currently learning **☕Java**
 
